@@ -1,0 +1,302 @@
+C:\Users\HodNahum\Desktop\TheWarehose\TheWarehose\bin\Debug\TheWarehose.exe.config
+C:\Users\HodNahum\Desktop\TheWarehose\TheWarehose\bin\Debug\TheWarehose.exe
+C:\Users\HodNahum\Desktop\TheWarehose\TheWarehose\bin\Debug\CsvHelper.dll
+C:\Users\HodNahum\Desktop\TheWarehose\TheWarehose\bin\Debug\LumenWorks.Framework.IO.dll
+C:\Users\HodNahum\Desktop\TheWarehose\TheWarehose\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\HodNahum\Desktop\TheWarehose\TheWarehose\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\HodNahum\Desktop\TheWarehose\TheWarehose\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\HodNahum\Desktop\TheWarehose\TheWarehose\bin\Debug\CsvHelper.xml
+C:\Users\HodNahum\Desktop\TheWarehose\TheWarehose\bin\Debug\LumenWorks.Framework.IO.pdb
+C:\Users\HodNahum\Desktop\TheWarehose\TheWarehose\bin\Debug\LumenWorks.Framework.IO.xml
+C:\Users\HodNahum\Desktop\TheWarehose\TheWarehose\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\HodNahum\Desktop\TheWarehose\TheWarehose\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\HodNahum\Desktop\TheWarehose\TheWarehose\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\HodNahum\Desktop\TheWarehose\TheWarehose\obj\Debug\TheWarehose.csprojAssemblyReference.cache
+C:\Users\HodNahum\Desktop\TheWarehose\TheWarehose\obj\Debug\TheWarehose.GuiClasses.AccessoriseView.resources
+C:\Users\HodNahum\Desktop\TheWarehose\TheWarehose\obj\Debug\TheWarehose.GuiClasses.GadgetView.resources
+C:\Users\HodNahum\Desktop\TheWarehose\TheWarehose\obj\Debug\TheWarehose.Login.resources
+C:\Users\HodNahum\Desktop\TheWarehose\TheWarehose\obj\Debug\TheWarehose.Phoneview.resources
+C:\Users\HodNahum\Desktop\TheWarehose\TheWarehose\obj\Debug\TheWarehose.Productchooser.resources
+C:\Users\HodNahum\Desktop\TheWarehose\TheWarehose\obj\Debug\TheWarehose.GuiClasses.Registration.resources
+C:\Users\HodNahum\Desktop\TheWarehose\TheWarehose\obj\Debug\TheWarehose.Properties.Resources.resources
+C:\Users\HodNahum\Desktop\TheWarehose\TheWarehose\obj\Debug\TheWarehose.csproj.GenerateResource.cache
+C:\Users\HodNahum\Desktop\TheWarehose\TheWarehose\obj\Debug\TheWarehose.csproj.CoreCompileInputs.cache
+C:\Users\HodNahum\Desktop\TheWarehose\TheWarehose\obj\Debug\TheWarehose.csproj.CopyComplete
+C:\Users\HodNahum\Desktop\TheWarehose\TheWarehose\obj\Debug\TheWarehose.exe
+C:\Users\HodNahum\Desktop\TheWarehose\TheWarehose\obj\Debug\TheWarehose.pdb
+C:\Users\HodNahum\Desktop\TheWarehose\TheWarehose\bin\Debug\TheWarehose.pdb
+C:\Users\HodNahum\Desktop\TheWarehose\TheWarehose\obj\Debug\TheWarehose.GuiClasses.CarttVeiw.resources
+C:\Users\HodNahum\Desktop\TheWarehose\TheWarehose\obj\Debug\TheWarehose.GuiClasses.CreditView.resources
+C:\Users\HodNahum\Desktop\TheWarehose\TheWarehose\obj\Debug\TheWarehose.GuiClasses.Paymentview.resources
+C:\Users\HodNahum\Desktop\TheWarehose\TheWarehose\obj\Debug\TheWarehose.GuiClasses.PaypalView.resources
+C:\Users\HodNahum\Desktop\TheWarehose\TheWarehose\obj\Debug\TheWarehose.GuiClasses.Paypal2.resources
+C:\Users\HodNahum\Desktop\TheWarehose\TheWarehose\bin\Debug\Microsoft.Bcl.HashCode.dll
+C:\Users\HodNahum\Desktop\TheWarehose\TheWarehose\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\HodNahum\Desktop\TheWarehose\TheWarehose\bin\Debug\Microsoft.EntityFrameworkCore.dll
+C:\Users\HodNahum\Desktop\TheWarehose\TheWarehose\bin\Debug\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\HodNahum\Desktop\TheWarehose\TheWarehose\bin\Debug\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\HodNahum\Desktop\TheWarehose\TheWarehose\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\HodNahum\Desktop\TheWarehose\TheWarehose\bin\Debug\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\HodNahum\Desktop\TheWarehose\TheWarehose\bin\Debug\Microsoft.Extensions.Configuration.dll
+C:\Users\HodNahum\Desktop\TheWarehose\TheWarehose\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\HodNahum\Desktop\TheWarehose\TheWarehose\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\HodNahum\Desktop\TheWarehose\TheWarehose\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\HodNahum\Desktop\TheWarehose\TheWarehose\bin\Debug\Microsoft.Extensions.Logging.dll
+C:\Users\HodNahum\Desktop\TheWarehose\TheWarehose\bin\Debug\Microsoft.Extensions.Options.dll
+C:\Users\HodNahum\Desktop\TheWarehose\TheWarehose\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\HodNahum\Desktop\TheWarehose\TheWarehose\bin\Debug\System.Buffers.dll
+C:\Users\HodNahum\Desktop\TheWarehose\TheWarehose\bin\Debug\System.Collections.Immutable.dll
+C:\Users\HodNahum\Desktop\TheWarehose\TheWarehose\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Users\HodNahum\Desktop\TheWarehose\TheWarehose\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\HodNahum\Desktop\TheWarehose\TheWarehose\bin\Debug\System.Memory.dll
+C:\Users\HodNahum\Desktop\TheWarehose\TheWarehose\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\HodNahum\Desktop\TheWarehose\TheWarehose\bin\Debug\Microsoft.Bcl.HashCode.xml
+C:\Users\HodNahum\Desktop\TheWarehose\TheWarehose\bin\Debug\Microsoft.EntityFrameworkCore.xml
+C:\Users\HodNahum\Desktop\TheWarehose\TheWarehose\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.xml
+C:\Users\HodNahum\Desktop\TheWarehose\TheWarehose\bin\Debug\Microsoft.Extensions.Caching.Abstractions.xml
+C:\Users\HodNahum\Desktop\TheWarehose\TheWarehose\bin\Debug\Microsoft.Extensions.Caching.Memory.xml
+C:\Users\HodNahum\Desktop\TheWarehose\TheWarehose\bin\Debug\Microsoft.Extensions.Configuration.xml
+C:\Users\HodNahum\Desktop\TheWarehose\TheWarehose\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\HodNahum\Desktop\TheWarehose\TheWarehose\bin\Debug\Microsoft.Extensions.Configuration.Binder.xml
+C:\Users\HodNahum\Desktop\TheWarehose\TheWarehose\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\HodNahum\Desktop\TheWarehose\TheWarehose\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\HodNahum\Desktop\TheWarehose\TheWarehose\bin\Debug\Microsoft.Extensions.Logging.xml
+C:\Users\HodNahum\Desktop\TheWarehose\TheWarehose\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\HodNahum\Desktop\TheWarehose\TheWarehose\bin\Debug\Microsoft.Extensions.Options.xml
+C:\Users\HodNahum\Desktop\TheWarehose\TheWarehose\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Users\HodNahum\Desktop\TheWarehose\TheWarehose\bin\Debug\System.Buffers.xml
+C:\Users\HodNahum\Desktop\TheWarehose\TheWarehose\bin\Debug\System.Collections.Immutable.xml
+C:\Users\HodNahum\Desktop\TheWarehose\TheWarehose\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\HodNahum\Desktop\TheWarehose\TheWarehose\bin\Debug\System.Memory.xml
+C:\Users\HodNahum\Desktop\TheWarehose\TheWarehose\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\HodNahum\Desktop\TheWarehose\TheWarehose\obj\Debug\TheWarehose.GuiClasses.Admin2.resources
+C:\Users\ilona\OneDrive\שולחן העבודה\TheWarehose\TheWarehose\bin\Debug\TheWarehose.exe.config
+C:\Users\ilona\OneDrive\שולחן העבודה\TheWarehose\TheWarehose\bin\Debug\TheWarehose.exe
+C:\Users\ilona\OneDrive\שולחן העבודה\TheWarehose\TheWarehose\bin\Debug\TheWarehose.pdb
+C:\Users\ilona\OneDrive\שולחן העבודה\TheWarehose\TheWarehose\bin\Debug\CsvHelper.dll
+C:\Users\ilona\OneDrive\שולחן העבודה\TheWarehose\TheWarehose\bin\Debug\LumenWorks.Framework.IO.dll
+C:\Users\ilona\OneDrive\שולחן העבודה\TheWarehose\TheWarehose\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\ilona\OneDrive\שולחן העבודה\TheWarehose\TheWarehose\bin\Debug\Microsoft.Bcl.HashCode.dll
+C:\Users\ilona\OneDrive\שולחן העבודה\TheWarehose\TheWarehose\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\ilona\OneDrive\שולחן העבודה\TheWarehose\TheWarehose\bin\Debug\Microsoft.EntityFrameworkCore.dll
+C:\Users\ilona\OneDrive\שולחן העבודה\TheWarehose\TheWarehose\bin\Debug\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\ilona\OneDrive\שולחן העבודה\TheWarehose\TheWarehose\bin\Debug\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\ilona\OneDrive\שולחן העבודה\TheWarehose\TheWarehose\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\ilona\OneDrive\שולחן העבודה\TheWarehose\TheWarehose\bin\Debug\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\ilona\OneDrive\שולחן העבודה\TheWarehose\TheWarehose\bin\Debug\Microsoft.Extensions.Configuration.dll
+C:\Users\ilona\OneDrive\שולחן העבודה\TheWarehose\TheWarehose\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\ilona\OneDrive\שולחן העבודה\TheWarehose\TheWarehose\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\ilona\OneDrive\שולחן העבודה\TheWarehose\TheWarehose\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\ilona\OneDrive\שולחן העבודה\TheWarehose\TheWarehose\bin\Debug\Microsoft.Extensions.Logging.dll
+C:\Users\ilona\OneDrive\שולחן העבודה\TheWarehose\TheWarehose\bin\Debug\Microsoft.Extensions.Options.dll
+C:\Users\ilona\OneDrive\שולחן העבודה\TheWarehose\TheWarehose\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\ilona\OneDrive\שולחן העבודה\TheWarehose\TheWarehose\bin\Debug\System.Buffers.dll
+C:\Users\ilona\OneDrive\שולחן העבודה\TheWarehose\TheWarehose\bin\Debug\System.Collections.Immutable.dll
+C:\Users\ilona\OneDrive\שולחן העבודה\TheWarehose\TheWarehose\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Users\ilona\OneDrive\שולחן העבודה\TheWarehose\TheWarehose\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\ilona\OneDrive\שולחן העבודה\TheWarehose\TheWarehose\bin\Debug\System.Memory.dll
+C:\Users\ilona\OneDrive\שולחן העבודה\TheWarehose\TheWarehose\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\ilona\OneDrive\שולחן העבודה\TheWarehose\TheWarehose\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\ilona\OneDrive\שולחן העבודה\TheWarehose\TheWarehose\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\ilona\OneDrive\שולחן העבודה\TheWarehose\TheWarehose\bin\Debug\CsvHelper.xml
+C:\Users\ilona\OneDrive\שולחן העבודה\TheWarehose\TheWarehose\bin\Debug\LumenWorks.Framework.IO.pdb
+C:\Users\ilona\OneDrive\שולחן העבודה\TheWarehose\TheWarehose\bin\Debug\LumenWorks.Framework.IO.xml
+C:\Users\ilona\OneDrive\שולחן העבודה\TheWarehose\TheWarehose\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\ilona\OneDrive\שולחן העבודה\TheWarehose\TheWarehose\bin\Debug\Microsoft.Bcl.HashCode.xml
+C:\Users\ilona\OneDrive\שולחן העבודה\TheWarehose\TheWarehose\bin\Debug\Microsoft.EntityFrameworkCore.xml
+C:\Users\ilona\OneDrive\שולחן העבודה\TheWarehose\TheWarehose\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.xml
+C:\Users\ilona\OneDrive\שולחן העבודה\TheWarehose\TheWarehose\bin\Debug\Microsoft.Extensions.Caching.Abstractions.xml
+C:\Users\ilona\OneDrive\שולחן העבודה\TheWarehose\TheWarehose\bin\Debug\Microsoft.Extensions.Caching.Memory.xml
+C:\Users\ilona\OneDrive\שולחן העבודה\TheWarehose\TheWarehose\bin\Debug\Microsoft.Extensions.Configuration.xml
+C:\Users\ilona\OneDrive\שולחן העבודה\TheWarehose\TheWarehose\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\ilona\OneDrive\שולחן העבודה\TheWarehose\TheWarehose\bin\Debug\Microsoft.Extensions.Configuration.Binder.xml
+C:\Users\ilona\OneDrive\שולחן העבודה\TheWarehose\TheWarehose\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\ilona\OneDrive\שולחן העבודה\TheWarehose\TheWarehose\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\ilona\OneDrive\שולחן העבודה\TheWarehose\TheWarehose\bin\Debug\Microsoft.Extensions.Logging.xml
+C:\Users\ilona\OneDrive\שולחן העבודה\TheWarehose\TheWarehose\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\ilona\OneDrive\שולחן העבודה\TheWarehose\TheWarehose\bin\Debug\Microsoft.Extensions.Options.xml
+C:\Users\ilona\OneDrive\שולחן העבודה\TheWarehose\TheWarehose\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Users\ilona\OneDrive\שולחן העבודה\TheWarehose\TheWarehose\bin\Debug\System.Buffers.xml
+C:\Users\ilona\OneDrive\שולחן העבודה\TheWarehose\TheWarehose\bin\Debug\System.Collections.Immutable.xml
+C:\Users\ilona\OneDrive\שולחן העבודה\TheWarehose\TheWarehose\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\ilona\OneDrive\שולחן העבודה\TheWarehose\TheWarehose\bin\Debug\System.Memory.xml
+C:\Users\ilona\OneDrive\שולחן העבודה\TheWarehose\TheWarehose\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\ilona\OneDrive\שולחן העבודה\TheWarehose\TheWarehose\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\ilona\OneDrive\שולחן העבודה\TheWarehose\TheWarehose\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\ilona\OneDrive\שולחן העבודה\TheWarehose\TheWarehose\obj\Debug\TheWarehose.csprojAssemblyReference.cache
+C:\Users\ilona\OneDrive\שולחן העבודה\TheWarehose\TheWarehose\obj\Debug\TheWarehose.GuiClasses.AccessoriseView.resources
+C:\Users\ilona\OneDrive\שולחן העבודה\TheWarehose\TheWarehose\obj\Debug\TheWarehose.GuiClasses.CarttVeiw.resources
+C:\Users\ilona\OneDrive\שולחן העבודה\TheWarehose\TheWarehose\obj\Debug\TheWarehose.GuiClasses.CreditView.resources
+C:\Users\ilona\OneDrive\שולחן העבודה\TheWarehose\TheWarehose\obj\Debug\TheWarehose.GuiClasses.GadgetView.resources
+C:\Users\ilona\OneDrive\שולחן העבודה\TheWarehose\TheWarehose\obj\Debug\TheWarehose.Login.resources
+C:\Users\ilona\OneDrive\שולחן העבודה\TheWarehose\TheWarehose\obj\Debug\TheWarehose.GuiClasses.Paymentview.resources
+C:\Users\ilona\OneDrive\שולחן העבודה\TheWarehose\TheWarehose\obj\Debug\TheWarehose.GuiClasses.Paypal2.resources
+C:\Users\ilona\OneDrive\שולחן העבודה\TheWarehose\TheWarehose\obj\Debug\TheWarehose.GuiClasses.PaypalView.resources
+C:\Users\ilona\OneDrive\שולחן העבודה\TheWarehose\TheWarehose\obj\Debug\TheWarehose.Phoneview.resources
+C:\Users\ilona\OneDrive\שולחן העבודה\TheWarehose\TheWarehose\obj\Debug\TheWarehose.Productchooser.resources
+C:\Users\ilona\OneDrive\שולחן העבודה\TheWarehose\TheWarehose\obj\Debug\TheWarehose.GuiClasses.Registration.resources
+C:\Users\ilona\OneDrive\שולחן העבודה\TheWarehose\TheWarehose\obj\Debug\TheWarehose.Properties.Resources.resources
+C:\Users\ilona\OneDrive\שולחן העבודה\TheWarehose\TheWarehose\obj\Debug\TheWarehose.csproj.GenerateResource.cache
+C:\Users\ilona\OneDrive\שולחן העבודה\TheWarehose\TheWarehose\obj\Debug\TheWarehose.csproj.CoreCompileInputs.cache
+C:\Users\ilona\OneDrive\שולחן העבודה\TheWarehose\TheWarehose\obj\Debug\TheWarehose.csproj.CopyComplete
+C:\Users\ilona\OneDrive\שולחן העבודה\TheWarehose\TheWarehose\obj\Debug\TheWarehose.exe
+C:\Users\ilona\OneDrive\שולחן העבודה\TheWarehose\TheWarehose\obj\Debug\TheWarehose.pdb
+C:\Users\ilona\OneDrive\שולחן העבודה\TheWarehose\TheWarehose\obj\Debug\TheWarehose.GuiClasses.Admin.resources
+C:\Users\ilona\OneDrive\שולחן העבודה\TheWarehose\TheWarehose\obj\Debug\TheWarehose.GuiClasses.ProductAdd.resources
+C:\Users\ilona\OneDrive\שולחן העבודה\TheWarehose\TheWarehose\obj\Debug\TheWarehose.GuiClasses.ProductAddAcc.resources
+C:\Users\ilona\OneDrive\שולחן העבודה\TheWarehose\TheWarehose\obj\Debug\TheWarehose.GuiClasses.ProductAddGa.resources
+C:\Users\ilona\OneDrive\שולחן העבודה\TheWarehose\TheWarehose\obj\Debug\TheWarehose.GuiClasses.NISOI.resources
+C:\Users\HodNahum\Desktop\Engineering\TheWarehose\TheWarehose\bin\Debug\TheWarehose.exe.config
+C:\Users\HodNahum\Desktop\Engineering\TheWarehose\TheWarehose\bin\Debug\TheWarehose.exe
+C:\Users\HodNahum\Desktop\Engineering\TheWarehose\TheWarehose\bin\Debug\TheWarehose.pdb
+C:\Users\HodNahum\Desktop\Engineering\TheWarehose\TheWarehose\bin\Debug\CsvHelper.dll
+C:\Users\HodNahum\Desktop\Engineering\TheWarehose\TheWarehose\bin\Debug\LumenWorks.Framework.IO.dll
+C:\Users\HodNahum\Desktop\Engineering\TheWarehose\TheWarehose\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\HodNahum\Desktop\Engineering\TheWarehose\TheWarehose\bin\Debug\Microsoft.Bcl.HashCode.dll
+C:\Users\HodNahum\Desktop\Engineering\TheWarehose\TheWarehose\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\HodNahum\Desktop\Engineering\TheWarehose\TheWarehose\bin\Debug\Microsoft.EntityFrameworkCore.dll
+C:\Users\HodNahum\Desktop\Engineering\TheWarehose\TheWarehose\bin\Debug\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\HodNahum\Desktop\Engineering\TheWarehose\TheWarehose\bin\Debug\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\HodNahum\Desktop\Engineering\TheWarehose\TheWarehose\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\HodNahum\Desktop\Engineering\TheWarehose\TheWarehose\bin\Debug\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\HodNahum\Desktop\Engineering\TheWarehose\TheWarehose\bin\Debug\Microsoft.Extensions.Configuration.dll
+C:\Users\HodNahum\Desktop\Engineering\TheWarehose\TheWarehose\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\HodNahum\Desktop\Engineering\TheWarehose\TheWarehose\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\HodNahum\Desktop\Engineering\TheWarehose\TheWarehose\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\HodNahum\Desktop\Engineering\TheWarehose\TheWarehose\bin\Debug\Microsoft.Extensions.Logging.dll
+C:\Users\HodNahum\Desktop\Engineering\TheWarehose\TheWarehose\bin\Debug\Microsoft.Extensions.Options.dll
+C:\Users\HodNahum\Desktop\Engineering\TheWarehose\TheWarehose\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\HodNahum\Desktop\Engineering\TheWarehose\TheWarehose\bin\Debug\System.Buffers.dll
+C:\Users\HodNahum\Desktop\Engineering\TheWarehose\TheWarehose\bin\Debug\System.Collections.Immutable.dll
+C:\Users\HodNahum\Desktop\Engineering\TheWarehose\TheWarehose\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Users\HodNahum\Desktop\Engineering\TheWarehose\TheWarehose\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\HodNahum\Desktop\Engineering\TheWarehose\TheWarehose\bin\Debug\System.Memory.dll
+C:\Users\HodNahum\Desktop\Engineering\TheWarehose\TheWarehose\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\HodNahum\Desktop\Engineering\TheWarehose\TheWarehose\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\HodNahum\Desktop\Engineering\TheWarehose\TheWarehose\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\HodNahum\Desktop\Engineering\TheWarehose\TheWarehose\bin\Debug\CsvHelper.xml
+C:\Users\HodNahum\Desktop\Engineering\TheWarehose\TheWarehose\bin\Debug\LumenWorks.Framework.IO.pdb
+C:\Users\HodNahum\Desktop\Engineering\TheWarehose\TheWarehose\bin\Debug\LumenWorks.Framework.IO.xml
+C:\Users\HodNahum\Desktop\Engineering\TheWarehose\TheWarehose\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\HodNahum\Desktop\Engineering\TheWarehose\TheWarehose\bin\Debug\Microsoft.Bcl.HashCode.xml
+C:\Users\HodNahum\Desktop\Engineering\TheWarehose\TheWarehose\bin\Debug\Microsoft.EntityFrameworkCore.xml
+C:\Users\HodNahum\Desktop\Engineering\TheWarehose\TheWarehose\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.xml
+C:\Users\HodNahum\Desktop\Engineering\TheWarehose\TheWarehose\bin\Debug\Microsoft.Extensions.Caching.Abstractions.xml
+C:\Users\HodNahum\Desktop\Engineering\TheWarehose\TheWarehose\bin\Debug\Microsoft.Extensions.Caching.Memory.xml
+C:\Users\HodNahum\Desktop\Engineering\TheWarehose\TheWarehose\bin\Debug\Microsoft.Extensions.Configuration.xml
+C:\Users\HodNahum\Desktop\Engineering\TheWarehose\TheWarehose\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\HodNahum\Desktop\Engineering\TheWarehose\TheWarehose\bin\Debug\Microsoft.Extensions.Configuration.Binder.xml
+C:\Users\HodNahum\Desktop\Engineering\TheWarehose\TheWarehose\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\HodNahum\Desktop\Engineering\TheWarehose\TheWarehose\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\HodNahum\Desktop\Engineering\TheWarehose\TheWarehose\bin\Debug\Microsoft.Extensions.Logging.xml
+C:\Users\HodNahum\Desktop\Engineering\TheWarehose\TheWarehose\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\HodNahum\Desktop\Engineering\TheWarehose\TheWarehose\bin\Debug\Microsoft.Extensions.Options.xml
+C:\Users\HodNahum\Desktop\Engineering\TheWarehose\TheWarehose\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Users\HodNahum\Desktop\Engineering\TheWarehose\TheWarehose\bin\Debug\System.Buffers.xml
+C:\Users\HodNahum\Desktop\Engineering\TheWarehose\TheWarehose\bin\Debug\System.Collections.Immutable.xml
+C:\Users\HodNahum\Desktop\Engineering\TheWarehose\TheWarehose\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\HodNahum\Desktop\Engineering\TheWarehose\TheWarehose\bin\Debug\System.Memory.xml
+C:\Users\HodNahum\Desktop\Engineering\TheWarehose\TheWarehose\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\HodNahum\Desktop\Engineering\TheWarehose\TheWarehose\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\HodNahum\Desktop\Engineering\TheWarehose\TheWarehose\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\HodNahum\Desktop\Engineering\TheWarehose\TheWarehose\obj\Debug\TheWarehose.csprojAssemblyReference.cache
+C:\Users\HodNahum\Desktop\Engineering\TheWarehose\TheWarehose\obj\Debug\TheWarehose.GuiClasses.AccessoriseView.resources
+C:\Users\HodNahum\Desktop\Engineering\TheWarehose\TheWarehose\obj\Debug\TheWarehose.GuiClasses.Admin.resources
+C:\Users\HodNahum\Desktop\Engineering\TheWarehose\TheWarehose\obj\Debug\TheWarehose.GuiClasses.CarttVeiw.resources
+C:\Users\HodNahum\Desktop\Engineering\TheWarehose\TheWarehose\obj\Debug\TheWarehose.GuiClasses.CreditView.resources
+C:\Users\HodNahum\Desktop\Engineering\TheWarehose\TheWarehose\obj\Debug\TheWarehose.GuiClasses.GadgetView.resources
+C:\Users\HodNahum\Desktop\Engineering\TheWarehose\TheWarehose\obj\Debug\TheWarehose.Login.resources
+C:\Users\HodNahum\Desktop\Engineering\TheWarehose\TheWarehose\obj\Debug\TheWarehose.GuiClasses.Paymentview.resources
+C:\Users\HodNahum\Desktop\Engineering\TheWarehose\TheWarehose\obj\Debug\TheWarehose.GuiClasses.Paypal2.resources
+C:\Users\HodNahum\Desktop\Engineering\TheWarehose\TheWarehose\obj\Debug\TheWarehose.GuiClasses.PaypalView.resources
+C:\Users\HodNahum\Desktop\Engineering\TheWarehose\TheWarehose\obj\Debug\TheWarehose.Phoneview.resources
+C:\Users\HodNahum\Desktop\Engineering\TheWarehose\TheWarehose\obj\Debug\TheWarehose.GuiClasses.ProductAdd.resources
+C:\Users\HodNahum\Desktop\Engineering\TheWarehose\TheWarehose\obj\Debug\TheWarehose.GuiClasses.ProductAddAcc.resources
+C:\Users\HodNahum\Desktop\Engineering\TheWarehose\TheWarehose\obj\Debug\TheWarehose.GuiClasses.ProductAddGa.resources
+C:\Users\HodNahum\Desktop\Engineering\TheWarehose\TheWarehose\obj\Debug\TheWarehose.Productchooser.resources
+C:\Users\HodNahum\Desktop\Engineering\TheWarehose\TheWarehose\obj\Debug\TheWarehose.GuiClasses.Registration.resources
+C:\Users\HodNahum\Desktop\Engineering\TheWarehose\TheWarehose\obj\Debug\TheWarehose.Properties.Resources.resources
+C:\Users\HodNahum\Desktop\Engineering\TheWarehose\TheWarehose\obj\Debug\TheWarehose.csproj.GenerateResource.cache
+C:\Users\HodNahum\Desktop\Engineering\TheWarehose\TheWarehose\obj\Debug\TheWarehose.csproj.CoreCompileInputs.cache
+C:\Users\HodNahum\Desktop\Engineering\TheWarehose\TheWarehose\obj\Debug\TheWarehose.csproj.CopyComplete
+C:\Users\HodNahum\Desktop\Engineering\TheWarehose\TheWarehose\obj\Debug\TheWarehose.exe
+C:\Users\HodNahum\Desktop\Engineering\TheWarehose\TheWarehose\obj\Debug\TheWarehose.pdb
+C:\Users\HodNahum\Desktop\Engineering\TheWarehose\TheWarehose\obj\Debug\TheWarehose.GuiClasses.OrderComplete.resources
+C:\Users\HodNahum\Desktop\Engineering\TheWarehose\TheWarehose\obj\Debug\TheWarehose.GuiClasses.AddproductAdmin.resources
+C:\Users\ilona\OneDrive\שולחן העבודה\TheWarehose (4)\TheWarehose\TheWarehose\bin\Debug\TheWarehose.exe.config
+C:\Users\ilona\OneDrive\שולחן העבודה\TheWarehose (4)\TheWarehose\TheWarehose\bin\Debug\TheWarehose.exe
+C:\Users\ilona\OneDrive\שולחן העבודה\TheWarehose (4)\TheWarehose\TheWarehose\bin\Debug\TheWarehose.pdb
+C:\Users\ilona\OneDrive\שולחן העבודה\TheWarehose (4)\TheWarehose\TheWarehose\bin\Debug\CsvHelper.dll
+C:\Users\ilona\OneDrive\שולחן העבודה\TheWarehose (4)\TheWarehose\TheWarehose\bin\Debug\LumenWorks.Framework.IO.dll
+C:\Users\ilona\OneDrive\שולחן העבודה\TheWarehose (4)\TheWarehose\TheWarehose\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\ilona\OneDrive\שולחן העבודה\TheWarehose (4)\TheWarehose\TheWarehose\bin\Debug\Microsoft.Bcl.HashCode.dll
+C:\Users\ilona\OneDrive\שולחן העבודה\TheWarehose (4)\TheWarehose\TheWarehose\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\ilona\OneDrive\שולחן העבודה\TheWarehose (4)\TheWarehose\TheWarehose\bin\Debug\Microsoft.EntityFrameworkCore.dll
+C:\Users\ilona\OneDrive\שולחן העבודה\TheWarehose (4)\TheWarehose\TheWarehose\bin\Debug\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\ilona\OneDrive\שולחן העבודה\TheWarehose (4)\TheWarehose\TheWarehose\bin\Debug\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\ilona\OneDrive\שולחן העבודה\TheWarehose (4)\TheWarehose\TheWarehose\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\ilona\OneDrive\שולחן העבודה\TheWarehose (4)\TheWarehose\TheWarehose\bin\Debug\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\ilona\OneDrive\שולחן העבודה\TheWarehose (4)\TheWarehose\TheWarehose\bin\Debug\Microsoft.Extensions.Configuration.dll
+C:\Users\ilona\OneDrive\שולחן העבודה\TheWarehose (4)\TheWarehose\TheWarehose\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\ilona\OneDrive\שולחן העבודה\TheWarehose (4)\TheWarehose\TheWarehose\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\ilona\OneDrive\שולחן העבודה\TheWarehose (4)\TheWarehose\TheWarehose\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\ilona\OneDrive\שולחן העבודה\TheWarehose (4)\TheWarehose\TheWarehose\bin\Debug\Microsoft.Extensions.Logging.dll
+C:\Users\ilona\OneDrive\שולחן העבודה\TheWarehose (4)\TheWarehose\TheWarehose\bin\Debug\Microsoft.Extensions.Options.dll
+C:\Users\ilona\OneDrive\שולחן העבודה\TheWarehose (4)\TheWarehose\TheWarehose\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\ilona\OneDrive\שולחן העבודה\TheWarehose (4)\TheWarehose\TheWarehose\bin\Debug\System.Buffers.dll
+C:\Users\ilona\OneDrive\שולחן העבודה\TheWarehose (4)\TheWarehose\TheWarehose\bin\Debug\System.Collections.Immutable.dll
+C:\Users\ilona\OneDrive\שולחן העבודה\TheWarehose (4)\TheWarehose\TheWarehose\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Users\ilona\OneDrive\שולחן העבודה\TheWarehose (4)\TheWarehose\TheWarehose\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\ilona\OneDrive\שולחן העבודה\TheWarehose (4)\TheWarehose\TheWarehose\bin\Debug\System.Memory.dll
+C:\Users\ilona\OneDrive\שולחן העבודה\TheWarehose (4)\TheWarehose\TheWarehose\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\ilona\OneDrive\שולחן העבודה\TheWarehose (4)\TheWarehose\TheWarehose\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\ilona\OneDrive\שולחן העבודה\TheWarehose (4)\TheWarehose\TheWarehose\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\ilona\OneDrive\שולחן העבודה\TheWarehose (4)\TheWarehose\TheWarehose\bin\Debug\CsvHelper.xml
+C:\Users\ilona\OneDrive\שולחן העבודה\TheWarehose (4)\TheWarehose\TheWarehose\bin\Debug\LumenWorks.Framework.IO.pdb
+C:\Users\ilona\OneDrive\שולחן העבודה\TheWarehose (4)\TheWarehose\TheWarehose\bin\Debug\LumenWorks.Framework.IO.xml
+C:\Users\ilona\OneDrive\שולחן העבודה\TheWarehose (4)\TheWarehose\TheWarehose\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\ilona\OneDrive\שולחן העבודה\TheWarehose (4)\TheWarehose\TheWarehose\bin\Debug\Microsoft.Bcl.HashCode.xml
+C:\Users\ilona\OneDrive\שולחן העבודה\TheWarehose (4)\TheWarehose\TheWarehose\bin\Debug\Microsoft.EntityFrameworkCore.xml
+C:\Users\ilona\OneDrive\שולחן העבודה\TheWarehose (4)\TheWarehose\TheWarehose\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.xml
+C:\Users\ilona\OneDrive\שולחן העבודה\TheWarehose (4)\TheWarehose\TheWarehose\bin\Debug\Microsoft.Extensions.Caching.Abstractions.xml
+C:\Users\ilona\OneDrive\שולחן העבודה\TheWarehose (4)\TheWarehose\TheWarehose\bin\Debug\Microsoft.Extensions.Caching.Memory.xml
+C:\Users\ilona\OneDrive\שולחן העבודה\TheWarehose (4)\TheWarehose\TheWarehose\bin\Debug\Microsoft.Extensions.Configuration.xml
+C:\Users\ilona\OneDrive\שולחן העבודה\TheWarehose (4)\TheWarehose\TheWarehose\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\ilona\OneDrive\שולחן העבודה\TheWarehose (4)\TheWarehose\TheWarehose\bin\Debug\Microsoft.Extensions.Configuration.Binder.xml
+C:\Users\ilona\OneDrive\שולחן העבודה\TheWarehose (4)\TheWarehose\TheWarehose\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\ilona\OneDrive\שולחן העבודה\TheWarehose (4)\TheWarehose\TheWarehose\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\ilona\OneDrive\שולחן העבודה\TheWarehose (4)\TheWarehose\TheWarehose\bin\Debug\Microsoft.Extensions.Logging.xml
+C:\Users\ilona\OneDrive\שולחן העבודה\TheWarehose (4)\TheWarehose\TheWarehose\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\ilona\OneDrive\שולחן העבודה\TheWarehose (4)\TheWarehose\TheWarehose\bin\Debug\Microsoft.Extensions.Options.xml
+C:\Users\ilona\OneDrive\שולחן העבודה\TheWarehose (4)\TheWarehose\TheWarehose\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Users\ilona\OneDrive\שולחן העבודה\TheWarehose (4)\TheWarehose\TheWarehose\bin\Debug\System.Buffers.xml
+C:\Users\ilona\OneDrive\שולחן העבודה\TheWarehose (4)\TheWarehose\TheWarehose\bin\Debug\System.Collections.Immutable.xml
+C:\Users\ilona\OneDrive\שולחן העבודה\TheWarehose (4)\TheWarehose\TheWarehose\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\ilona\OneDrive\שולחן העבודה\TheWarehose (4)\TheWarehose\TheWarehose\bin\Debug\System.Memory.xml
+C:\Users\ilona\OneDrive\שולחן העבודה\TheWarehose (4)\TheWarehose\TheWarehose\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\ilona\OneDrive\שולחן העבודה\TheWarehose (4)\TheWarehose\TheWarehose\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\ilona\OneDrive\שולחן העבודה\TheWarehose (4)\TheWarehose\TheWarehose\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\ilona\OneDrive\שולחן העבודה\TheWarehose (4)\TheWarehose\TheWarehose\obj\Debug\TheWarehose.csprojAssemblyReference.cache
+C:\Users\ilona\OneDrive\שולחן העבודה\TheWarehose (4)\TheWarehose\TheWarehose\obj\Debug\TheWarehose.GuiClasses.AccessoriseView.resources
+C:\Users\ilona\OneDrive\שולחן העבודה\TheWarehose (4)\TheWarehose\TheWarehose\obj\Debug\TheWarehose.GuiClasses.Admin.resources
+C:\Users\ilona\OneDrive\שולחן העבודה\TheWarehose (4)\TheWarehose\TheWarehose\obj\Debug\TheWarehose.GuiClasses.CarttVeiw.resources
+C:\Users\ilona\OneDrive\שולחן העבודה\TheWarehose (4)\TheWarehose\TheWarehose\obj\Debug\TheWarehose.GuiClasses.CreditView.resources
+C:\Users\ilona\OneDrive\שולחן העבודה\TheWarehose (4)\TheWarehose\TheWarehose\obj\Debug\TheWarehose.GuiClasses.GadgetView.resources
+C:\Users\ilona\OneDrive\שולחן העבודה\TheWarehose (4)\TheWarehose\TheWarehose\obj\Debug\TheWarehose.Login.resources
+C:\Users\ilona\OneDrive\שולחן העבודה\TheWarehose (4)\TheWarehose\TheWarehose\obj\Debug\TheWarehose.GuiClasses.AddproductAdmin.resources
+C:\Users\ilona\OneDrive\שולחן העבודה\TheWarehose (4)\TheWarehose\TheWarehose\obj\Debug\TheWarehose.GuiClasses.OrderComplete.resources
+C:\Users\ilona\OneDrive\שולחן העבודה\TheWarehose (4)\TheWarehose\TheWarehose\obj\Debug\TheWarehose.GuiClasses.Paymentview.resources
+C:\Users\ilona\OneDrive\שולחן העבודה\TheWarehose (4)\TheWarehose\TheWarehose\obj\Debug\TheWarehose.GuiClasses.Paypal2.resources
+C:\Users\ilona\OneDrive\שולחן העבודה\TheWarehose (4)\TheWarehose\TheWarehose\obj\Debug\TheWarehose.GuiClasses.PaypalView.resources
+C:\Users\ilona\OneDrive\שולחן העבודה\TheWarehose (4)\TheWarehose\TheWarehose\obj\Debug\TheWarehose.Phoneview.resources
+C:\Users\ilona\OneDrive\שולחן העבודה\TheWarehose (4)\TheWarehose\TheWarehose\obj\Debug\TheWarehose.GuiClasses.ProductAddAcc.resources
+C:\Users\ilona\OneDrive\שולחן העבודה\TheWarehose (4)\TheWarehose\TheWarehose\obj\Debug\TheWarehose.GuiClasses.ProductAddGa.resources
+C:\Users\ilona\OneDrive\שולחן העבודה\TheWarehose (4)\TheWarehose\TheWarehose\obj\Debug\TheWarehose.Productchooser.resources
+C:\Users\ilona\OneDrive\שולחן העבודה\TheWarehose (4)\TheWarehose\TheWarehose\obj\Debug\TheWarehose.GuiClasses.Registration.resources
+C:\Users\ilona\OneDrive\שולחן העבודה\TheWarehose (4)\TheWarehose\TheWarehose\obj\Debug\TheWarehose.Properties.Resources.resources
+C:\Users\ilona\OneDrive\שולחן העבודה\TheWarehose (4)\TheWarehose\TheWarehose\obj\Debug\TheWarehose.csproj.GenerateResource.cache
+C:\Users\ilona\OneDrive\שולחן העבודה\TheWarehose (4)\TheWarehose\TheWarehose\obj\Debug\TheWarehose.csproj.CoreCompileInputs.cache
+C:\Users\ilona\OneDrive\שולחן העבודה\TheWarehose (4)\TheWarehose\TheWarehose\obj\Debug\TheWarehose.csproj.CopyComplete
+C:\Users\ilona\OneDrive\שולחן העבודה\TheWarehose (4)\TheWarehose\TheWarehose\obj\Debug\TheWarehose.exe
+C:\Users\ilona\OneDrive\שולחן העבודה\TheWarehose (4)\TheWarehose\TheWarehose\obj\Debug\TheWarehose.pdb
+C:\Users\ilona\OneDrive\שולחן העבודה\TheWarehose (4)\TheWarehose\TheWarehose\obj\Debug\TheWarehose.GuiClasses.ProductAddPhone.resources
